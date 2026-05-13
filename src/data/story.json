@@ -1,0 +1,441 @@
+{
+  "title": "Our Story: A Love Quest",
+  "finalMessage": "Four years… and I still fall in love with you every single day. ❤",
+  "finalButton": "Play Again",
+  "chapters": [
+    {
+      "id": "digital_beginning",
+      "title": "Chapter 1",
+      "subtitle": "A Face in the Feed",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter1",
+      "introDialogue": "ch1_intro"
+    },
+    {
+      "id": "friend_request",
+      "title": "Chapter 2",
+      "subtitle": "One Click. One Leap.",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter2",
+      "introDialogue": "ch2_intro"
+    },
+    {
+      "id": "chat_and_pause",
+      "title": "Chapter 3",
+      "subtitle": "Hello… and Goodbye",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter3",
+      "introDialogue": "ch3_intro"
+    },
+    {
+      "id": "first_meeting",
+      "title": "Chapter 4",
+      "subtitle": "The Girl in the Hoodie",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter4",
+      "introDialogue": "ch5_intro"
+    },
+    {
+      "id": "growing_connection",
+      "title": "Chapter 5",
+      "subtitle": "Starting Over",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter5",
+      "introDialogue": "ch6_intro"
+    },
+    {
+      "id": "first_gift",
+      "title": "Chapter 6",
+      "subtitle": "Wireless & Heartstrings",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter6",
+      "introDialogue": "ch7_intro"
+    },
+    {
+      "id": "pizza_day",
+      "title": "Chapter 7",
+      "subtitle": "Pizza & New Beginnings",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter7",
+      "introDialogue": "ch8_intro"
+    },
+    {
+      "id": "relationship_growth",
+      "title": "Chapter 8",
+      "subtitle": "Something Real",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter8",
+      "introDialogue": "ch9_intro"
+    },
+    {
+      "id": "the_letters",
+      "title": "Chapter 9",
+      "subtitle": "Letters, Every Morning",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter9",
+      "introDialogue": "letters_intro"
+    },
+    {
+      "id": "fights_and_fix",
+      "title": "Chapter 10",
+      "subtitle": "Little Storms",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter10",
+      "introDialogue": "ch10_intro"
+    },
+    {
+      "id": "little_surprises",
+      "title": "Chapter 11",
+      "subtitle": "Love in a Box",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter11",
+      "introDialogue": "gifts_intro"
+    },
+    {
+      "id": "family_meet",
+      "title": "Chapter 12",
+      "subtitle": "Two Families, One Story",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter12",
+      "introDialogue": "ch12_intro"
+    },
+    {
+      "id": "paths_merge",
+      "title": "Chapter 13",
+      "subtitle": "Paths That Merge",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter13",
+      "introDialogue": "ch13_intro"
+    },
+    {
+      "id": "engagement_wedding",
+      "title": "Chapter 14",
+      "subtitle": "From Engagement to Forever",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter14",
+      "introDialogue": "ch14_intro"
+    },
+    {
+      "id": "present_day",
+      "title": "Chapter 15",
+      "subtitle": "4 Years & Counting",
+      "sceneType": "chapter",
+      "sceneKey": "Chapter15",
+      "introDialogue": "ch15_intro"
+    }
+  ],
+  "dialogues": {
+    "ch1_intro": [
+      "It was 2020. The world had paused.",
+      "Everyone was home. Screens were our only windows to the world outside.",
+      "And somewhere in that digital silence… Prawal found her."
+    ],
+    "ch1_found": [
+      { "speaker": "Prawal", "text": "Our company had organised an online event during the lockdown." },
+      { "speaker": "Prawal", "text": "Aashna was in one of the photos from the post." },
+      { "speaker": "Prawal", "text": "Something stopped me. I kept coming back to that photo." },
+      { "speaker": "Prawal", "text": "There was something about her smile… I couldn't explain it." },
+      { "speaker": "Prawal", "text": "I didn't even know Aashna's name yet." },
+      { "speaker": "Prawal", "text": "But I already wanted to." }
+    ],
+    "ch2_intro": [
+      { "speaker": "Prawal", "text": "I searched. LinkedIn first. Then Facebook." },
+      { "speaker": "Prawal", "text": "And there she was. Same face. Same smile." }
+    ],
+    "ch2_request": [
+      { "speaker": "Prawal", "text": "I stared at that Add Friend button for longer than I'd like to admit." },
+      { "speaker": "Prawal", "text": "What if Aashna doesn't accept? What if she thinks it's weird?" },
+      { "speaker": "Prawal", "text": "One breath. One click." },
+      { "speaker": "Aashna", "text": "✓ Friend request accepted." },
+      { "speaker": "Prawal", "text": "That one small notification changed the course of everything." }
+    ],
+    "ch3_intro": [
+      "Connected. Friends on a screen.",
+      "The messages began — hesitant, then warm.",
+      "Walk through the conversation."
+    ],
+    "ch3_chat": [
+      { "speaker": "Prawal", "text": "We started talking. Small things at first." },
+      { "speaker": "Aashna", "text": "How's work? How's the lockdown treating you?" },
+      { "speaker": "Prawal", "text": "Slowly… we found a rhythm." },
+      { "speaker": "Prawal", "text": "And then life happened. The conversations faded." },
+      { "speaker": "Prawal", "text": "Weeks went by. Then months." },
+      { "speaker": "", "text": "Silence." },
+      { "speaker": "Prawal", "text": "But I thought about Aashna more than I should have." },
+      { "speaker": "Prawal", "text": "Some stories aren't done yet. They just… pause." }
+    ],
+    "ch5_intro": [
+      "Months had passed. Lockdown restrictions were slowly easing.",
+      "The office reopened — partially. Rosters. Limited strength.",
+      "Prawal walked in that morning not expecting anything special."
+    ],
+    "ch5_meet": [
+      { "speaker": "Prawal", "text": "And then I saw her." },
+      { "speaker": "Prawal", "text": "Not a photo. Not a screen." },
+      { "speaker": "Prawal", "text": "Aashna." },
+      { "speaker": "Prawal", "text": "Standing there in that maroon hoodie." },
+      { "speaker": "Prawal", "text": "I think my heart forgot how to beat for a second." },
+      { "speaker": "Prawal", "text": "She was even more beautiful in person." },
+      { "speaker": "Prawal", "text": "I didn't say much that day. I didn't need to." },
+      { "speaker": "Prawal", "text": "Some moments just need to be felt." }
+    ],
+    "ch6_intro": [
+      "Back at the office. The same desks, the same screens.",
+      "But something had changed. Prawal found reasons to be near her.",
+      "Walk over — she could use some help."
+    ],
+    "ch6_help": [
+      { "speaker": "Prawal", "text": "After that office day, something shifted." },
+      { "speaker": "Prawal", "text": "We started talking again. Properly this time." },
+      { "speaker": "Prawal", "text": "Little chats. A question here. A favour there." },
+      { "speaker": "Aashna", "text": "Hey, can you help me with something at work?" },
+      { "speaker": "Prawal", "text": "I jumped at every chance — not just to help…" },
+      { "speaker": "Prawal", "text": "But just to have a reason to talk to Aashna." },
+      { "speaker": "Prawal", "text": "Every small moment with her felt like something worth holding onto." }
+    ],
+    "ch6_gift": [
+      { "speaker": "Prawal", "text": "I wanted to do something nice. Something unexpected." },
+      { "speaker": "Prawal", "text": "So I got Aashna wireless earphones. A surprise." },
+      { "speaker": "Aashna", "text": "Oh my god — I love them! Thank you so much!" },
+      { "speaker": "Prawal", "text": "And then… she forgot them at the office." },
+      { "speaker": "Aashna", "text": "I remembered when I got home. I called, I tried — they were just gone." },
+      { "speaker": "Prawal", "text": "I saw how sad she was. And made up my mind instantly." },
+      { "speaker": "Prawal", "text": "Aashna was going to have that smile back." },
+      { "speaker": "Prawal", "text": "The exact same pair. Again." },
+      { "speaker": "Prawal", "text": "Because some smiles are worth every penny. Twice over." }
+    ],
+    "ch7_intro": [
+      "The evening sun was warm. The world felt lighter.",
+      "Prawal had something for Aashna. Something small, but meaningful.",
+      "Find the gift in the park."
+    ],
+    "ch7_pizza": [
+      { "speaker": "Prawal", "text": "The day I gave Aashna the second pair of earphones…" },
+      { "speaker": "Prawal", "text": "We decided to go out after office. Just like that." },
+      { "speaker": "Prawal", "text": "Aashna, me, and a friend." },
+      { "speaker": "Prawal", "text": "A small pizza place. Nothing fancy." },
+      { "speaker": "Prawal", "text": "But it was our first time outside together." },
+      { "speaker": "Prawal", "text": "Our first real evening." },
+      { "speaker": "Aashna", "text": "This is really nice… we should do this more often." },
+      { "speaker": "Prawal", "text": "Something about that evening just… felt right." },
+      { "speaker": "Prawal", "text": "Like we'd always been doing this." }
+    ],
+    "ch8_intro": [
+      "A pizza place near the metro, just outside the office.",
+      "They'd decided that afternoon — just the two of them and a friend.",
+      "Nothing planned. Nothing fancy.",
+      "Walk to the table — she's already waiting."
+    ],
+    "ch8_growth": [
+      { "speaker": "Prawal", "text": "After that evening… things were different." },
+      { "speaker": "Prawal", "text": "In the best possible way." },
+      { "speaker": "Prawal", "text": "Messages came easier. Silences felt comfortable." },
+      { "speaker": "Prawal", "text": "We stopped pretending it was just friendship." },
+      { "speaker": "Prawal", "text": "Something was quietly, beautifully growing between Prawal and Aashna." },
+      { "speaker": "Prawal", "text": "And for the first time… I wasn't afraid of it." }
+    ],
+    "ch9_intro": [
+      "Somewhere between the long calls and the quiet mornings…",
+      "Something changed.",
+      "It wasn't sudden. It was slow, and warm, and real.",
+      "Walk through the memories of how Prawal and Aashna grew closer."
+    ],
+    "letters_intro": [
+      "2021. The world was still finding its feet.",
+      "And every single morning — before the day began — Prawal sent a message to Aashna.",
+      "The same ritual. Every day. Without fail.",
+      "365 mornings. Then more.",
+      "Walk around. Find the letters."
+    ],
+    "letter_morning_1": [
+      { "speaker": "Prawal", "text": "Good morning, Aashna." },
+      { "speaker": "Prawal", "text": "I woke up thinking of you — like I do every morning now." },
+      { "speaker": "Prawal", "text": "I had to tell you that." },
+      { "speaker": "Prawal", "text": "I don't know what this feeling is yet." },
+      { "speaker": "Prawal", "text": "But it felt too important to keep to myself." }
+    ],
+    "letter_morning_2": [
+      { "speaker": "Prawal", "text": "Good morning again, Aashna." },
+      { "speaker": "Prawal", "text": "I saw something funny today and thought — she'd laugh at this." },
+      { "speaker": "Prawal", "text": "So I sent it to you immediately." },
+      { "speaker": "Prawal", "text": "Sharing little things with you feels like the most natural thing." },
+      { "speaker": "Prawal", "text": "It still does." }
+    ],
+    "letter_morning_3": [
+      { "speaker": "Prawal", "text": "Good morning." },
+      { "speaker": "Prawal", "text": "Some mornings I message you just to say I'm thinking of you." },
+      { "speaker": "Prawal", "text": "Today: I'm hopeful." },
+      { "speaker": "Prawal", "text": "About us. About everything." },
+      { "speaker": "Prawal", "text": "That feeling — warm and steady — it belongs to you." }
+    ],
+    "letter_morning_4": [
+      { "speaker": "Prawal", "text": "Good morning, Aashna." },
+      { "speaker": "Prawal", "text": "Day 200 something. I've lost count." },
+      { "speaker": "Prawal", "text": "But I haven't missed a single morning." },
+      { "speaker": "Prawal", "text": "I think you know why by now." },
+      { "speaker": "Prawal", "text": "It's you. It always was." }
+    ],
+    "letter_morning_5": [
+      { "speaker": "Prawal", "text": "Good morning." },
+      { "speaker": "Prawal", "text": "Every morning — before the world woke up — this message went to you first." },
+      { "speaker": "Prawal", "text": "Each one sent. Each one meant." },
+      { "speaker": "Prawal", "text": "By the time this one reached you, Aashna…" },
+      { "speaker": "Prawal", "text": "You already had my heart. Completely." }
+    ],
+    "ch10_intro": [
+      "Not every day was golden.",
+      "There were silences. Misunderstandings. Words said too fast.",
+      "But even in the storm…",
+      "Walk forward. The way back to each other is always there."
+    ],
+    "ch9_fight": [
+      { "speaker": "", "text": "Not everything was smooth. Love never is." },
+      { "speaker": "Prawal", "text": "We had our arguments. Our silences. Our misunderstandings." },
+      { "speaker": "Aashna", "text": "Sometimes I didn't know how to say what I was feeling." },
+      { "speaker": "Prawal", "text": "Words said in the heat of a moment." },
+      { "speaker": "Prawal", "text": "Times when everything felt heavy." },
+      { "speaker": "Prawal", "text": "But every single time… Prawal and Aashna came back." },
+      { "speaker": "Prawal", "text": "A little more patient. A little more understanding." },
+      { "speaker": "Prawal", "text": "Every storm made us stronger. That's how we knew it was real." }
+    ],
+    "gifts_intro": [
+      "They say love is in the big moments.",
+      "But Prawal knows it's in the small ones.",
+      "The ordinary evening when you order her favourite food — from your home, to hers.",
+      "The little things, sent with intention.",
+      "Explore the room — there are surprises to find here."
+    ],
+    "gift_food": [
+      { "speaker": "Prawal", "text": "Sometimes, after a fight — or even without reason —" },
+      { "speaker": "Prawal", "text": "I'd order Aashna's favourite food. Delivered to her door." },
+      { "speaker": "Prawal", "text": "No explanation needed." },
+      { "speaker": "Prawal", "text": "Just: here. Eat. I'm thinking of you." },
+      { "speaker": "Prawal", "text": "Food says 'I love you' in every language." }
+    ],
+    "gift_delivery_sorry": [
+      { "speaker": "", "text": "One time, after a disagreement between Prawal and Aashna…" },
+      { "speaker": "Prawal", "text": "I didn't know what to say." },
+      { "speaker": "Prawal", "text": "So I messaged the delivery partner before the drop." },
+      { "speaker": "Prawal", "text": "'Can you please tell her I'm sorry from my side?'" },
+      { "speaker": "", "text": "He did. He actually said it." },
+      { "speaker": "Aashna", "text": "…the delivery guy said you're sorry. 😂" },
+      { "speaker": "Prawal", "text": "That delivery guy will never know what he helped fix that evening." }
+    ],
+    "gift_lovebook": [
+      { "speaker": "Prawal", "text": "I had a book made. Our story — illustrated, printed, bound." },
+      { "speaker": "Prawal", "text": "Photos, notes, little captions." },
+      { "speaker": "Prawal", "text": "Every chapter of Prawal & Aashna, held in your hands." },
+      { "speaker": "Aashna", "text": "…" },
+      { "speaker": "Prawal", "text": "That silence was the best review I ever got." }
+    ],
+    "gift_photos": [
+      { "speaker": "Prawal", "text": "We had so many photos. Scattered across phones and drives." },
+      { "speaker": "Prawal", "text": "So I had them printed. Framed. Displayed." },
+      { "speaker": "Prawal", "text": "Every picture a moment saved." },
+      { "speaker": "Prawal", "text": "The laughing ones. The quiet ones. The blurry ones." },
+      { "speaker": "Aashna", "text": "Why did you print the blurry ones too?" },
+      { "speaker": "Prawal", "text": "Especially the blurry ones. Those are the real ones." }
+    ],
+    "gift_cup": [
+      { "speaker": "Prawal", "text": "A simple mug. Made just for Aashna." },
+      { "speaker": "Prawal", "text": "Her name. Her photo. That's all it needed." },
+      { "speaker": "Prawal", "text": "Every morning when she makes her tea…" },
+      { "speaker": "Aashna", "text": "I use it every single day, you know." },
+      { "speaker": "Prawal", "text": "That's the whole point." },
+      { "speaker": "Prawal", "text": "That small, daily smile." }
+    ],
+    "ch12_intro": [
+      "A home. Warm and full of voices.",
+      "Letters from those who love Prawal and Aashna most.",
+      "Walk around. Find the blessings they left behind."
+    ],
+    "ch11_family": [
+      { "speaker": "", "text": "The time came to take the next step." },
+      { "speaker": "", "text": "To bring our two worlds together." },
+      { "speaker": "", "text": "To let the people who shaped Prawal and Aashna… meet each other." },
+      { "speaker": "Prawal", "text": "I remember how nervous I was that day." },
+      { "speaker": "", "text": "But the moment our families met…" },
+      { "speaker": "", "text": "It just felt natural." },
+      { "speaker": "", "text": "Like they'd always known each other." },
+      { "speaker": "", "text": "Like this was always meant to be." }
+    ],
+    "ch12_letter_1": [
+      { "speaker": "", "text": "A letter from Mom." },
+      { "speaker": "", "text": "'I always knew you'd find someone who sees you the way I do.'" },
+      { "speaker": "", "text": "'Take care of each other. That's all I ask.'" }
+    ],
+    "ch12_letter_2": [
+      { "speaker": "", "text": "A few words from Dad." },
+      { "speaker": "", "text": "'I'm proud of the person you've become.'" },
+      { "speaker": "", "text": "'And I'm proud of who you chose to walk beside.'" }
+    ],
+    "ch12_letter_3": [
+      { "speaker": "", "text": "A scribbled note from a sister." },
+      { "speaker": "", "text": "'You two are disgustingly cute. Don't ever change. 😂'" },
+      { "speaker": "", "text": "'But seriously… I've never seen you happier.'" }
+    ],
+    "ch12_letter_4": [
+      { "speaker": "", "text": "A letter written together. By both families." },
+      { "speaker": "", "text": "'We didn't lose a child. We gained one.'" },
+      { "speaker": "", "text": "'This family just got bigger. And better.'" },
+      { "speaker": "", "text": "'Welcome home.'" }
+    ],
+    "ch12_family": [
+      { "speaker": "", "text": "Four voices. One story." },
+      { "speaker": "", "text": "Every letter said the same thing in a different way." },
+      { "speaker": "", "text": "'You are loved. You are seen. You belong here.'" },
+      { "speaker": "Prawal", "text": "I didn't know what to expect that day." },
+      { "speaker": "Prawal", "text": "But when both families sat down together…" },
+      { "speaker": "", "text": "There was no divide." },
+      { "speaker": "", "text": "Just warmth. Just laughter. Just home." },
+      { "speaker": "Aashna", "text": "My family already loved you." },
+      { "speaker": "Prawal", "text": "And mine already loved you too." },
+      { "speaker": "", "text": "Two families. One story. And it was just beginning." }
+    ],
+    "ch13_intro": [
+      "Two lives. Two journeys. Two different stories.",
+      "But somewhere along the way… the paths began to bend.",
+      "Walk forward. She's waiting where the roads meet."
+    ],
+    "ch13_reunion": [
+      { "speaker": "", "text": "Two paths. One destination." },
+      { "speaker": "Prawal", "text": "Every step I took… led me closer to her." },
+      { "speaker": "Prawal", "text": "Through distance, through doubt, through time." },
+      { "speaker": "Prawal", "text": "And now… here. Together." },
+      { "speaker": "Aashna", "text": "It was always going to be you." },
+      { "speaker": "", "text": "Some paths are meant to merge." }
+    ],
+    "ch14_intro": [
+      "The aisle stretches before you.",
+      "Flowers on each side. Lights above.",
+      "She's waiting at the end.",
+      "Walk forward."
+    ],
+    "ch14_wedding": [
+      { "speaker": "", "text": "First came the engagement." },
+      { "speaker": "", "text": "A circle of gold. A promise made." },
+      { "speaker": "", "text": "And then… the wedding." },
+      { "speaker": "", "text": "The flowers. The laughter. The tears of joy." },
+      { "speaker": "Prawal", "text": "I looked at Aashna in that moment…" },
+      { "speaker": "Prawal", "text": "And I thought — this is the best day of my life." },
+      { "speaker": "Prawal", "text": "This is the beginning of everything." }
+    ],
+    "ch15_intro": [
+      "No rooms. No objects. No noise.",
+      "Just light.",
+      "Just two people standing in the middle of everything they've built.",
+      "Walk to her."
+    ],
+    "ch15_finale": [
+      { "speaker": "Prawal", "text": "Four years." },
+      { "speaker": "Prawal", "text": "Four years of mornings and midnights." },
+      { "speaker": "Prawal", "text": "Of fights and forgiveness." },
+      { "speaker": "Prawal", "text": "Of laughter that echoes and silences that comfort." },
+      { "speaker": "Prawal", "text": "Four years of growing." },
+      { "speaker": "Prawal", "text": "Four years of choosing each other." },
+      { "speaker": "Prawal", "text": "And I fall in love with you a little more… every single day." },
+      { "speaker": "Prawal", "text": "Happy 4th anniversary, Aashna. ❤" },
+      { "speaker": "Prawal", "text": "Here's to forever." }
+    ]
+  }
+}

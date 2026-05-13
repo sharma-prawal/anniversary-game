@@ -1,0 +1,20 @@
+{
+  "name": "our-story-love-quest",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Our Story: A Love Quest — A romantic narrative RPG",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "firebase:login": "npx firebase-tools login",
+    "firebase:deploy": "npm run build && npx firebase-tools deploy --only hosting"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
