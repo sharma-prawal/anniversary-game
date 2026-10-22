@@ -4,8 +4,6 @@
 
 **Live:** [praashi.fun](https://praashi.fun)
 
-The Ren'Py edition is available to download from itch.io: [prawalsharma.itch.io/praashi](https://prawalsharma.itch.io/praashi)
-
 <p align="center">
   <img src="docs/screenshots/desktop.jpg" width="38%" alt="Screenshot" />
   <img src="docs/screenshots/inside.jpg" width="38%" alt="Screenshot" />
