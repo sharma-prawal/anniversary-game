@@ -2,6 +2,8 @@
 
 > A story-driven 2D adventure game built with Phaser 3 — a playable walk through the chapters of a relationship, designed for landscape play.
 
+**Play:** the finished game (Ren'Py edition) is on itch.io — [prawalsharma.itch.io/praashi](https://prawalsharma.itch.io/praashi)
+
 <p align="center">
   <img src="docs/screenshots/desktop.jpg" width="38%" alt="Screenshot" />
   <img src="docs/screenshots/inside.jpg" width="38%" alt="Screenshot" />
